@@ -9,3 +9,4 @@
 * Fork this repository
 * Add your answers to questions in [questions.md](https://github.com/redpanthers/JoinUs/blob/master/questions.md)
 * Send a pull request
+* new line
